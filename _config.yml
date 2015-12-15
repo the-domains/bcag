@@ -1,0 +1,28 @@
+name: BCAG
+favicon: null
+layout_spectrum: 0.056307331658899784
+typography_spectrum: 0.901915141614154
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4571461013983935
+  lightness: 0.5352710855659097
+  saturation: 0.9893943849019706
+  rhythmicContrast: 0.08784430800005794
+purpose: []
