@@ -2,14 +2,35 @@
     <channel>
         <title><![CDATA[BCAG - Brendon Chen Alta Gioielleria]]></title>
         <description><![CDATA[BCAG - Brendon Chen Alta Gioielleria]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bcag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 05:52:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 05:59:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bcag/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8852f1a5-400b-4c42-85a7-4997f8c9f3cf.jpg">]]></description>
+            <link>https://thegrid.ai/bcag/1c311f78-b69b-41e2-bcfc-63677fce6b2b/index.html</link>
+            <guid isPermaLink="false">1c311f78-b69b-41e2-bcfc-63677fce6b2b</guid>
+            <pubDate>Thu, 17 Dec 2015 05:56:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Egypt Myth]]></title>
+            <description><![CDATA[<article><h1>Egypt Myth</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0474686ecfbd80cc3ae8618477473320bd21d114.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bcag/4a57c5aa-224c-44f7-b3e0-c3eb6ee0ecc8/index.html</link>
+            <guid isPermaLink="false">4a57c5aa-224c-44f7-b3e0-c3eb6ee0ecc8</guid>
+            <pubDate>Thu, 17 Dec 2015 05:59:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9ddf034-2e5f-4367-8cb6-251d59b60465.jpg">]]></description>
+            <link>https://thegrid.ai/bcag/e0bfd217-f699-454a-a6a3-ec620e89f0ae/index.html</link>
+            <guid isPermaLink="false">e0bfd217-f699-454a-a6a3-ec620e89f0ae</guid>
+            <pubDate>Thu, 17 Dec 2015 05:56:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[全球承載最多真實生命故事的訂製珠寶品牌]]></title>
             <description><![CDATA[<article><h1>全球承載最多真實生命故事的訂製珠寶品牌</h1><p>null</p></article>]]></description>
-            <link>undefinedb5cf43be-adb1-4453-9c77-307354abae47/index.html</link>
+            <link>https://thegrid.ai/bcag/b5cf43be-adb1-4453-9c77-307354abae47/index.html</link>
             <guid isPermaLink="false">b5cf43be-adb1-4453-9c77-307354abae47</guid>
             <pubDate>Thu, 17 Dec 2015 05:52:04 GMT</pubDate>
         </item>
