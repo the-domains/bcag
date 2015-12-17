@@ -1,7 +1,7 @@
 name: BCAG
 favicon: null
-layout_spectrum: 0.056307331658899784
-typography_spectrum: 0.901915141614154
+layout_spectrum: 0
+typography_spectrum: 0.77104
 title: BCAG - Brendon Chen Alta Gioielleria
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#ffffff'
+    - '#010101'
+    - '#959595'
+    - '#6b6b6b'
+    - '#5c3929'
   brandStrength: 0.4571461013983935
-  lightness: 0.5352710855659097
-  saturation: 0.9893943849019706
-  rhythmicContrast: 0.08784430800005794
+  lightness: 0.9375
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
